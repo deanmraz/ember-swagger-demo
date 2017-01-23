@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-swagger-ui',
+    modulePrefix: 'ember-swagger-demo',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
